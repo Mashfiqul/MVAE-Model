@@ -11,16 +11,16 @@ Mashfiqul Huq Chowdhury, Yuichi Hirose, Stephen Marsland, Yuan Yao.
 
 ## Datasets
 
-The datasets used in this research (MNIST, Fashion-MNIST, USPS, and STL-10) are accessible through PyTorch deep learning frameworks. The Reuters and HAR dataset can be accessed in the Dataset folder. Digits dataset is available in Scikit-learn (sklearn) machine learning library in Python.
+The datasets used in this research (MNIST, Fashion-MNIST, USPS, and STL-10) are accessible through PyTorch deep learning frameworks. The Reuters and HAR datasets can be accessed in the Dataset folder. The digits dataset is available in the Scikit-learn (sklearn) machine-learning library in Python.
 
 
 ## Models
 
-Our proposed mixtures VAE (MVAE) and evaluated models (VAE, VADE, k-DVAE) can be accessed in 'models' folder.
+Our proposed mixtures VAE (MVAE) and evaluated models (VAE, VADE, k-DVAE) can be accessed in the 'models' folder.
 
 ### Contact
 
-For additional code or information, please contact Mashfiqul Huq Chowdhury.
+For additional code or information, please get in touch with Mashfiqul Huq Chowdhury.
 
 
 
@@ -44,7 +44,7 @@ This code is part of an ongoing research project, and the associated paper is cu
 
 Contributions to the repository are welcome, and any questions can be sent to mashfiq@mbstu.ac.bd.
 
-We appreciate your interest and hope that this code proves valuable in your research endeavors.
+We appreciate your interest and hope this code provides help for your research endeavors.
 
 Best regards,
 
