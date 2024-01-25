@@ -1,0 +1,18 @@
+
+ Final Training Loss: 9070.67018391927
+
+ Final Test Loss: 9633.38287109375
+
+
+ Clustering Results:
+
+
+ Accuracy:  0.936
+
+ NMI:  0.863
+
+ ARI:  0.863
+
+ Average Accuracy: 0.9322538499999999
+
+ STD Accuracy: 0.02051498611204746
